@@ -1,0 +1,31 @@
+p {
+    font-size: 12px;
+    color: red;
+}
+
+#p1 {
+    font-size: 16px;
+}
+
+#p2 {
+    font-size: 20px;
+}
+
+#p3 {
+    font-size: 24px;
+}
+
+#p4 {
+    font-size: 26px;
+}
+
+.login {
+    background: red;
+    width: 500px;
+    height: 200px;
+}
+
+input {
+    background: white;
+    padding: 10px;
+}
